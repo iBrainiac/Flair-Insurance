@@ -1,3 +1,6 @@
+Deployed  Contract: 
+0x22cFe63D280faF82a0EEF00578Afcd114ae3031B
+
 Weather-Based Crop Insurance (FDC + FTSO)
 Core Concept
 Simple crop insurance that pays out automatically based on weather data - perfect for Flare's data protocols.
